@@ -8,7 +8,7 @@
 
 
 # NRET
-A Python package to retrieve canopy Nitrogen concentration 
+A Python package to retrieve canopy aboveground Nitrogen content using a hybrid modelling approach.
 #### Mahmoud H. Ahmed ``mahmoudhatim55@gmail.com``
 
 ## Install in Anaconda env
