@@ -13,7 +13,7 @@ A Python package to retrieve canopy aboveground Nitrogen content using a hybrid 
 
 ## pip install the package
 
-You can also pip install the package to your environment ( Anaconda or Google colab) and it should also work fine (Tested in a local Windows machine & in Google Colaboratory).
+You can pip install the package to your environment ( Anaconda or Google colab) and it should also work fine (Tested in a local Windows machine & in Google Colaboratory).
 it **should** work on Python 3.6. and newer versions (Tested on 3.9.)
 
 `pip install nret`
