@@ -11,17 +11,10 @@
 A Python package to retrieve canopy aboveground Nitrogen content using a hybrid modelling approach.
 #### Mahmoud H. Ahmed ``mahmoudhatim55@gmail.com``
 
-## Install in Anaconda env
-
-The package can be easily installed using the command
-
-`conda install -c mah010 nret`
-
-it **should** work on Python 3.6. and newer versions (Tested on 3.9.)
-
 ## pip install the package
 
-You can also pip install the package to your environment and it should also work fine (Tested in Google Colaboratory)
+You can also pip install the package to your environment ( Anaconda or Google colab) and it should also work fine (Tested in a local Windows machine & in Google Colaboratory).
+it **should** work on Python 3.6. and newer versions (Tested on 3.9.)
 
 `pip install nret`
 
@@ -37,4 +30,12 @@ Major phases:
 * **Sentinel-2 Imagery Prediction**: Apply your trained Gaussian Process Regression (GPR) model to real Sentinel-2 imagery, enabling precise predictions for the specific parameter of interest. Subsequently, create maps to visualize both the predicted variable and the uncertainty associated with these predictions, represented as standard deviation maps.
 
 By following the guidance and examples provided in this repository, you'll gain the knowledge and tools needed to perform an in-season canopy aboveground Nitrogen content retrieval and biomass estimation efficiently and effectively. 
+
+## Generating a Learning Database
+
+## Train a GPR Model
+
+## Predict on Sentinel-2 Bands
+
+## Interesting Statistical Analysis
 
