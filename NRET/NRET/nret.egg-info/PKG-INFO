@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: nret
+Version: 0.9
+Summary: A Python module that contains all the tools neeeded for retrieving N concentration from satellite bands
+Home-page: https://github.com/Mahmoud-H97/NRET
+Author: Mahmoud H. Ahmed  @ IHE Delft, The Netherlands
+Author-email: mahmoudhatim55@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+Conaining tools to generate biophisical & biochemical input oints and link its distribution to LAI, then run the points through the PROSAIL-PRO radiative transfer model and set every thing for Gaussian Process model training.
+
